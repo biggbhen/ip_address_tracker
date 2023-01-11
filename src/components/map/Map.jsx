@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from 'react';
 import { MapContainer, TileLayer } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
+// import 'leaflet/dist/leaflet.css';
 
 import IpContext from '../context/IpContext';
 import MarkerPosition from './MarkerPosition';
